@@ -1,4 +1,4 @@
----------- EXERCICIO 1 ----------
+Exercício n° 01
 
 C:\Users\4261214951>cd documents
 
@@ -13,7 +13,9 @@ C:\Users\4261214951\Documents>dir
 24/03/2026  19:50    <DIR>          NetBeansProjects
                0 arquivo(s)              0 bytes
                3 pasta(s)   415.204.892.672 bytes disponíveis
----------- EXERCICIO 2 ----------
+
+
+Exercício n° 02
 
 C:\Users\4261214951\Documents>cd Projetos
 
@@ -25,7 +27,8 @@ C:\Users\4261214951\Documents\Projetos\Exercicios>mkdir Logica
 
 C:\Users\4261214951\Documents\Projetos\Exercicios>cd ..
 
----------- EXERCICIO 3 ----------
+
+Exercício n° 03
 
 C:\Users\4261214951\Documents\Projetos>cd ..
 
